@@ -1,6 +1,7 @@
 nginx
 mysql:5.7.44
 akaiot/oracle_11g
+ghcr.io/stardm0/moontv:latest
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
