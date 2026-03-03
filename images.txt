@@ -1,3 +1,4 @@
+1panel/openclaw:2026.3.2
 nginx
 mysql:5.7.44
 akaiot/oracle_11g
