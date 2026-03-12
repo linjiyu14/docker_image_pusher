@@ -3,7 +3,8 @@
 #mysql:5.7.44
 #akaiot/oracle_11g
 #ghcr.io/stardm0/moontv:latest
-ollama/ollama:0.17.7
+#ollama/ollama:0.17.7
+agentscope/copaw:latest
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
