@@ -4,7 +4,8 @@
 #akaiot/oracle_11g
 #ghcr.io/stardm0/moontv:latest
 #ollama/ollama:0.17.7
-agentscope/copaw:latest
+#agentscope/copaw:latest
+vllm/vllm-openai:0.17.1-cu130
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
